@@ -1,2 +1,9 @@
 # self_driving_car
-Lane detection and Traffic light detection
+
+
+Object detection code:
+- grass
+- traffic light
+- Lane
+
+
